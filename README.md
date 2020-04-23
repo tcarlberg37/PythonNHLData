@@ -6,3 +6,5 @@ Gretzky_vs_Ovi.ipynb was created to settle a bet on whether Alex Ovechkin could 
 
 NBA.ipynb is a deep dive into a kaggle dataset of NBA statistics using pandas, matplotlib, and keras for data 
 visualization and machine learning.
+
+PlotlyMaps.ipynb is me learning to make plotly maps.
